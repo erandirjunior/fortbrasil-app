@@ -4,6 +4,8 @@
 
 ##### Before run application, access /src/services/api.js and replace YOUR_IP by your IP.
 
+ > Watch preview project running on [YouTube Video](https://youtu.be/TNxkaFeZA1I)
+
 #### Install dependencies
 ```
 npm install
